@@ -1,9 +1,14 @@
 # CPU-VS-GPU-VS-TPU-VS-NPU
 Assignment 2
+
 Assignment Topic: Comparative Analysis of Modern Processing Units: CPU, GPU, TPU, and NPU
+
 Program: Bachelor of Information Technology Management (BITM) – 1st Semester
+
 Submitted By: Kismat Shrestha
+
 Roll No: 14
+
 Date: November 26, 2026
 
 1. Introduction
